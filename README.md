@@ -4,9 +4,9 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 
 ## How to use?
 
-1. Get a URL
-2. Create a img tag `<img src="{BadgeURLHere}" />` or `![image]({BadgeURLHere})`
-3. Copy and paste on your profile
+1. Get a License Key
+2. Import Private Key on `Home` or `Main`
+3. Build and Crypt on your Payload
 
 ## Menu
 
