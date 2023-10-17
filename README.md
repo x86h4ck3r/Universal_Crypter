@@ -28,7 +28,7 @@
 </a>
 </p>
 
-<p align="center"><img src="./src/images/github-profile-readme-generator.gif" alt="github-profile-readme-generator gif" /></p>
+<p align="center"><img src="https://i.ibb.co/gd5kjR5/aa.png" alt="[github-profile-readme-generator gif](https://i.ibb.co/gd5kjR5/aa.png)" /></p>
 
 <p align="center">
     <a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="blank">View Demo</a>
