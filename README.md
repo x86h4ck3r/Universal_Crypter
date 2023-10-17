@@ -31,11 +31,11 @@
 <p align="center"><img src="https://i.ibb.co/gd5kjR5/aa.png" alt="[github-profile-readme-generator gif](https://i.ibb.co/gd5kjR5/aa.png)" /></p>
 
 <p align="center">
-    <a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="blank">View Demo</a>
+    <a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="blank">Website</a>
     ·
-    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">View Demo</a>
     ·
-    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Telegram</a>
 </p>
 
 <p align="center">
