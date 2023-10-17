@@ -1,208 +1,169 @@
-# Welcome! Badges 4 README.md Profile
+<p align="center">
+  <a href="https://rahuldkjain.github.io/gh-profile-readme-generator">
+    <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  GitHub Profile README Generator
+</h1>
 
-Improve your README.md profile with these amazing badges. See a sample [here](https://github.com/alexandresanlim)
+<p align="center">
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/LICENSE" target="blank">
+<img src="https://img.shields.io/github/license/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator license" />
+</a>
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/fork" target="blank">
+<img src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
+</a>
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
+</a>
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues" target="blank">
+<img src="https://img.shields.io/github/issues/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
+</a>
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+</a>
+<a href="https://discord.gg/HHMs7Eg" target="blank">
+<img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of github profile readme generator"/>
+</a>
+</p>
 
-## How to use?
+<p align="center"><img src="./src/images/github-profile-readme-generator.gif" alt="github-profile-readme-generator gif" /></p>
 
-1. Get a License Key
-2. Import Private Key on `Home` or `Main`
-3. Build and Encrypt on your Payload
+<p align="center">
+    <a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="blank">View Demo</a>
+    ·
+    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Report Bug</a>
+    ·
+    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Request Feature</a>
+</p>
 
-## Menu
+<p align="center">
+<i>Loved the tool? Please consider <a href="https://paypal.me/rahuldkjain/10">donating</a>  💸 to help it improve!</i>
+</p>
 
-- [Welcome](#welcome)
-- [How to use](#how-to-use)
-- [Badges](#badges)
+<p align="center">
+<a href="https://www.paypal.me/rahuldkjain"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator"/>
+</a>
+<a href='https://ko-fi.com/A0A81XXSX' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for rahuldkjain' />
+</a>
+<a href="https://www.buymeacoffee.com/rahuldkjain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" />
+</p>
 
-  - [🧑🏼‍🏭 Static](#-static)
-    - [📊 Analytics](#-analytics-)
-    - [🤖 Artificial Intelligence](#-artificial-intelligence-)
-    - [🔗 Blockchain](#-blockchain-)
-    - [📝 Blog](#-blog-)
-    - [👥 Community](#-community-)
-    - [📱 Contact](#-contact-)
-    - [☁ Cloud](#-cloud-)
-    - [💲 Cryptocurrency](#-cryptocurrency-)
-    - [⚡ Database](#-database-)
-    - [🖍 Design](#-design-)
-    - [📚 Education](#-education-)
-    - [📦 ETL](#-etl-)
-    - [🍔 Food](#-food-)
-    - [🚀 Frameworks & Library](#-frameworks--library-)
-    - [❤ Funding](#-funding-)
-    - [🎮 Games](#-games-)
-    - [🤜 Group](#-group-)
-    - [👩‍💻 IDE](#-ide-)
-    - [🔌 IDE Plugin](#-ide-plugin-)
-    - [👩‍💻 Languages](#-languages-)
-    - [🧐 Linters](#-linters-)
-    - [🎡 Low Code Platforms](#-low-code-platforms-)
-    - [📱 Mobile Frameworks](#-mobile-frameworks-)
-    - [👨‍💻 Office](#-office-)
-    - [⚙️ ORM ](#orm)
-    - [💻 OS](#-os-)
-    - [💡 Prototyping Platforms](#-prototyping-platforms-)
-    - [🔒 Security Platforms](#-security-platforms-)
-    - [👨 Social](#-social-)
-    - [👩‍💻 Software Metrics & Analytics](#-software-metrics-and-analytics-)
-    - [🎶 Sound](#-sound-)
-    - [💻 Spatial software](#-spatial-software-)
-    - [🛒 Store](#-store-)
-    - [🎞 Streaming](#-streaming-)
-    - [💻 Terminal](#-terminal-)
-    - [💻 Virtualization](#-virtualization-)
-    - [🌐 Web Browsers](#-web-browsers-)
-    - [🥅 Work/Jobs](#-workjobs-)
-    - [⏱️ Workflow Platforms](#-workflow-platforms-)
-    - [💻 Workspace Spec](#-workspace-spec-)
-  - [🔁 Dynamic](#-dynamic-)
-    - [📈 Activity Graph](#-activity-graph-)
-    - [📑 Gist Pin](#-gist-pin-)
-    - [📄 Gists List Card](#-gists-list-card-)
-    - [💳 Github Profile Summary Card](#-github-profile-summary-card-)
-    - [📟 GitHub Stats](#-github-stats-)
-    - [📊 Most Used Language](#-most-used-language-)
-    - [🎯 Profile Hits Counter](#-profile-hits-counter-)
-    - [⏱ Streak Stats](#-streak-stats-)
-    - [🏆 Trophy Stats](#-trophy-stats-)
+#### Tired of editing GitHub Profile README with new features?
 
-- [How To Contribute](#-how-to-contribute-)
-- [Creators](#creators-)
-- [FAQs](#see-more-repositories)
+This tool provides an easy way to create a GitHub profile readme with the latest add-ons such as `visitors count`, `github stats`, etc.
 
-<h2 align='center'>🧑🏼‍🏭 Static</h2>
+## 🚀 Demo
 
-## 📊 Analytics [🔝](#welcome-badges-4-readmemd-profile)
+<a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="blank">
+<img src="https://img.shields.io/website?url=https%3A%2F%2Frahuldkjain.github.io%2Fgh-profile-readme-generator&logo=github&style=flat-square" />
+</a>
 
-| Badge                                                                                                                            | URL                                                                                                                  |
-| -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white" />                       | `https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white`                       |
-| <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" /> | `https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white` |
-| <img src="https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white" />                         | `https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white`                         |
-| <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" />                         | `https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white`                         |
-| <img src="https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=Matomo&logoColor=white" />                         | `https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=Matomo&logoColor=white`                         |
-| <img src="https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white" />                   | `https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white`                   |
-| <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />                       | `https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white`                       |
-| <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" />                     | `https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white`                     |
+Try the tool: [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator)
 
-## 🤖 Artificial Intelligence [🔝](#welcome-badges-4-readmemd-profile)
+## 🧐 Features
 
-| Badge                                                                                                                                 | URL                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://custom-icon-badges.herokuapp.com/badge/comet%20ml-262c3e?style=for-the-badge&logo=logo_comet_ml&logoColor=white" /> | `https://custom-icon-badges.herokuapp.com/badge/comet%20ml-262c3e?style=for-the-badge&logo=logo_comet_ml&logoColor=white` |
-| <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" />                      | `https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white`                      |
-| <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />                                | `https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white`                                |
-| <img src="https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white" />                | `https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white`                |
-| <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />                            | `https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white`                            |
-| <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />                      | `https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white`                      |
-| <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" />          | `https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white`          |
+Just fill in the details such as `Name`, `Tagline`, `Dev Platforms Username`, `Current Work`, `Portfolio`, `Blog`, etc. with a minimal UI.
 
+- **Uniform Dev Icons**
 
+- **Uniform Social Icons**
 
-<h2 align='center'>🔁 Dynamic </h2>
+- **Visitors Counter Badge**
 
-## 📈 Activity Graph [🔝](#welcome-badges-4-readmemd-profile)
+- **GitHub Profile Stats Card**
 
-- Themes: `Default (cotton candy)`, `react`, `react-dark`, `github`, `github-compact`, `xcode`, `rogue`, `merko`, `vue`, `tokyo-night`, `high-contrast`
+- **GitHub Top Skills**
 
-| Badge                                                                                                                  | URL                                                                         | Theme                                                                                          |
-| ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| <img width='200' src="https://github-readme-activity-graph.cyclic.app/graph?username=alexandresanlim&theme=minimal" /> | `https://github-readme-activity-graph.cyclic.app/graph?username={username}` | `https://github-readme-activity-graph.cyclic.app/graph?username={username}&theme={theme_name}` |
+- **GitHub Streak Stats**
 
-## 📑 Gist Pin [🔝](#welcome-badges-4-readmemd-profile)
+- **Dynamic Dev(.)to Blogs** (GitHub Action)
 
-| Badge                                                                                                                                 | URL                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| <img width='200' src="https://gists-readme.yizack.com/api/pin?user=alexandresanlim&id=7866ae1b3651ce8b300cc0cad4478854&owner=true" /> | `https://gists-readme.yizack.com/api/pin?user={username}&id={gist_id}&owner=true` |
+- **Dynamic Medium Blogs** (GitHub Action)
 
-## 📄 Gists List Card [🔝](#welcome-badges-4-readmemd-profile)
+- **Dynamic Personal Blogs from RSS Feed** (GitHub Action)
 
-| Badge                                                                              | URL                                                   |
-| ---------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| <img width='200' src="https://gists-readme.yizack.com/api?user=alexandresanlim" /> | `https://gists-readme.yizack.com/api?user={username}` |
+- **Wakatime Stats** [contribute](https://github.com/rahuldkjain/github-profile-readme-generator/issues/115)
 
-## 💳 Github Profile Summary Card [🔝](#welcome-badges-4-readmemd-profile)
+- **Buy Me A Coffee button**
 
-- Themes: `default`, `2077`, `dracula`, `github`, `github_dark`, `gruvbox`, `monokai`, `nord_bright`, `nord_dark`, `radical`, `solarized`, `solarized_dark`, `tokyonight`, `vue`, `zenburn`
+Click on `Generate README` to get your README in `markdown`.
+You can preview the README too.
 
-| Badge                                                                                                                                  | URL                                                                                             | Theme                                                                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| <img width='200' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandresanlim&theme=vue" /> | `https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}` | `https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name}` |
+## 🛠️ Installation Steps
 
-## 📟 GitHub Stats [🔝](#welcome-badges-4-readmemd-profile)
+1. Clone the repository
 
-- Themes: `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`
-
-| Badge                                                                                                                  | URL                                                                                       | Theme                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| <img width='200' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexandresanlim" /> | `https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={username}` | `https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={username}&theme={theme_name}` |
-
-## 📊 Most Used Language [🔝](#welcome-badges-4-readmemd-profile)
-
-- Themes: `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`
-
-| Badge                                                                                                    | URL                                                                         | Theme                                                                                          |
-| -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}` | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme={theme_name}` |
-
-## 🎯 Profile Hits Counter [🔝](#welcome-badges-4-readmemd-profile)
-
-| Badge                                                                                                                                                                                                                                              | URL                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| <img width='200' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falexandresanlim%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" /> | `https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter` |
-
-## ⏱ Streak Stats [🔝](#welcome-badges-4-readmemd-profile)
-
-- Themes: `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`
-
-| Badge                                                                                            | URL                                                                 | Theme                                                                                  |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| <img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=alexandresanlim" /> | `https://github-readme-streak-stats.herokuapp.com/?user={username}` | `https://github-readme-streak-stats.herokuapp.com/?user={username}&theme={theme_name}` |
-
-## 🏆 Trophy Stats [🔝](#welcome-badges-4-readmemd-profile)
-
-- Themes: `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`
-
-| Badge                                                                                        | URL                                                             | Theme                                                                              |
-| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| <img width='200' src="https://github-profile-trophy.vercel.app/?username=alexandresanlim" /> | `https://github-profile-trophy.vercel.app/?username={username}` | `https://github-profile-trophy.vercel.app/?username={username}&theme={theme_name}` |
-
-## ✏ How To Contribute [🔝](#welcome-badges-4-readmemd-profile)
-
-1 - You don't need to make a fork just edit.
-
-2 - Get an icon and hex color from [Simple Icon](https://simpleicons.org/), if you don't find the desired logo, request it [here](https://github.com/simple-icons/simple-icons/issues/new?assignees=&labels=new+icon&template=icon_request.yml).
-
-3 - Build the URL:
-
-```
-https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white
+```bash
+git clone https://github.com/rahuldkjain/github-profile-readme-generator.git
 ```
 
-- {TEXT} = Paste your badge text
-- {HEX-COLOR} = Paste your hex color whithout "#" from Simple Icon
-- {LOGO-NAME} = Logo name from Simple Icon
+2. Change the working directory
 
-4 - Paste on category with `Alphabetical` order.
+```bash
+cd github-profile-readme-generator
+```
 
-5 - Commit your changes.
+3. Install dependencies
 
-## Creators [🔝](#welcome-badges-4-readmemd-profile)
+```bash
+npm install
+```
 
-It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors). As usual, we update our top 3 contributors list on every month. But last month we didn't get any contributor. So for this month We're going to remove this section. We do respect & love our all contributors.
+4. Run the app
 
-**Note:** Every month the Contributors list will be updated by observing their contributions.
+```bash
+npm start
+```
 
-|                                                                                                                                                    Author                                                                                                                                                     |                                                                                                                                     Collaborator                                                                                                                                      |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://github.com/alexandresanlim.png?size=115" width=115><br><sub>@alexandresanlim</sub>](https://github.com/alexandresanlim) <br><br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/alexandresanlim) | [<img src="https://github.com/mrhrifat.png?size=250" width=115><br><sub>@mrhrifat</sub>](https://github.com/mrhrifat) <br><br> [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrhrifat) |
+🌟 You are all set!
 
-## See More Repositories
+## 🍰 Contributing
 
-| Project                                                                                                         | Short description                                                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Collection.NiceToolsForAppDesign](https://github.com/alexandresanlim/Collection.NiceToolsForAppDesign)         | Nice tools collection for app design                                                                                                                     |
-| [MobileApp.SimpleLandingPage.Template](https://github.com/alexandresanlim/MobileApp.SimpleLandingPage.Template) | Create a very simple landing page for your mobile app with bootstrap only                                                                                |
-| [Badge Genius](https://github.com/mrhrifat/badge-genius)                                                        | Build & Download 2440+ popular brands Badge, SVG, Hex & so on to use in GitHub Markdown or Any Web Pages wth fast, reliable with amazing dynamic process |
-| [Al-Quran](https://github.com/mrhrifat/al-quran)                                                                | Al-Quran is a Sadaqah Jariyah. It's the holy book of Islam. I hope to make it easy for everyone to read, study, & learn Al-Quran.                        |
-| [Shield Icons](https://github.com/mrhrifat/shield-icons)                                                        | Shield Icons will provide Badges, SVG Logo & Hex Color Code to use in GitHub Markdown or Any Web Pages                                                   |
+Please contribute using [GitHub Flow](https://guides.github.com/introduction/flow). Create a branch, add commits, and [open a pull request](https://github.com/rahuldkjain/github-profile-readme-generator/compare).
+
+Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDUCT`](CODE_OF_CONDUCT.md), and the process for submitting pull requests to us.
+
+## 💻 Built with
+
+- [Gatsby](https://www.gatsbyjs.com/)
+- [Tailwind CSS](https://tailwindcss.com/): for styling
+- [GSAP](https://greensock.com/gsap/): for small SVG Animations
+
+## 🙇 Special Thanks
+
+- [Anurag Hazra](https://github.com/anuraghazra) for amazing [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- [Anton Komarev](https://github.com/antonkomarev) for super cool [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
+- [Gautam Krishna R](https://github.com/gautamkrishnar) for the awesome [blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+- [Jonah Lawrence](https://github.com/DenverCoder1) for the incredible [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+- [Julien Monty](https://github.com/konpa) for super useful [devicon](https://github.com/konpa/devicon)
+- [Eliot Sanford](https://github.com/techieeliot) for adding hashnode as a blog input
+
+## 🙇 Sponsors
+
+- [Scott C Wilson](https://github.com/scottcwilson) donated the first-ever grant to this tool. A big thanks to him.
+- [Max Schmitt](https://github.com/mxschmitt) loved the tool and showed support with his donation. Thanks a lot.
+- [Aadit Kamat](https://github.com/aaditkamat) find the tool useful and showed support with his donation. A big thanks to him.
+- [Jean-Michel Fayard](https://github.com/jmfayard) used the generator to create his GitHub Profile README and he loved it. Thanks to him for showing support to the tool with the donation.
+
+## 🙏 Support
+
+<p align="left">
+<a href="https://www.paypal.me/rahuldkjain/10"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
+</a>
+<a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Frahuldkjain.github.io%2Fgithub-profile-readme-generator">
+<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Frahuldkjain.github.io%2Fgithub-profile-readme-generator" alt="tweet github profile readme generator"/>
+</a>
+</p>
+
+<p align="left">
+  <a href='https://ko-fi.com/A0A81XXSX' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for rahuldkjain' />
+  </a>
+  <a href="https://www.buymeacoffee.com/rahuldkjain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
+</p>
+
+<hr>
+<p align="center">
+Developed with ❤️ in India 🇮🇳 
+</p>
