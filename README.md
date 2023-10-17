@@ -52,7 +52,7 @@
 
 #### “We're' always here to help our customers and we will do our best to satisfy you..”
 
-This tool provides an easy way to create a GitHub profile readme with the latest add-ons such as `visitors count`, `github stats`, etc.
+We offer all our clients 24/7 availability, transparent, fixed pricing and a total satisfaction guarantee.
 
 ## 🚀 Demo
 
