@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://rahuldkjain.github.io/gh-profile-readme-generator">
-    <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
+    <img alt="GitHub Profile Readme Generator" src="[./src/images/mdg.png](https://i.ibb.co/ZVN4gw0/4577fe99-fa74-4729-a57b-5884fe4c01df.jpg)" width="60" />
   </a>
 </p>
 <h1 align="center">
