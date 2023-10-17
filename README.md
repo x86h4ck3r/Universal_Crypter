@@ -87,7 +87,7 @@ Just fill in the details such as `Name`, `Tagline`, `Dev Platforms Username`, `C
 
 
 We are updating our `stubs & methods` everydays.
-You can preview the README too.
+You can preview the `result` too.
 
 ## 🛠️ Installation Steps
 
