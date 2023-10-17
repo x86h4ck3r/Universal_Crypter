@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://rahuldkjain.github.io/gh-profile-readme-generator">
+  <a href="https://t.me/unibypass">
     <img alt="GitHub Profile Readme Generator" src="https://i.ibb.co/ZVN4gw0/4577fe99-fa74-4729-a57b-5884fe4c01df.jpg" width="60" />
   </a>
 </p>
