@@ -60,11 +60,10 @@ We offer all our clients 24/7 availability, transparent, fixed pricing and a tot
 <img src="https://img.shields.io/website?url=https%3A%2F%2Frahuldkjain.github.io%2Fgh-profile-readme-generator&logo=github&style=flat-square" />
 </a>
 
-Try the tool: [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator)
+View demo the tool: [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator)
 
 ## 🛡️ Features
 
-Just fill in the details such as `Name`, `Tagline`, `Dev Platforms Username`, `Current Work`, `Portfolio`, `Blog`, etc. with a minimal UI.
 
 - **.NET/Native (x64) support**
 
