@@ -66,23 +66,23 @@ Try the tool: [GitHub Profile README Generator](https://rahuldkjain.github.io/gh
 
 Just fill in the details such as `Name`, `Tagline`, `Dev Platforms Username`, `Current Work`, `Portfolio`, `Blog`, etc. with a minimal UI.
 
-- **Uniform Dev Icons**
+- **.NET/Native (x64) support**
 
-- **Uniform Social Icons**
+- **AES 256 /XOR encryption**
 
-- **Visitors Counter Badge**
+- **Compression**
 
-- **GitHub Profile Stats Card**
+- **Anti Debug**
 
-- **GitHub Top Skills**
+- **Anti VM**
 
-- **GitHub Streak Stats**
+- **Melt file (self delete)**
 
-- **Dynamic Dev(.)to Blogs** (GitHub Action)
+- **Bind files** (GitHub Action)
 
-- **Dynamic Medium Blogs** (GitHub Action)
+- **AMSI bypass** (GitHub Action)
 
-- **Dynamic Personal Blogs from RSS Feed** (GitHub Action)
+- **ETW bypass** (GitHub Action)
 
 - **Wakatime Stats** [contribute](https://github.com/rahuldkjain/github-profile-readme-generator/issues/115)
 
