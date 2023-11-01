@@ -93,7 +93,7 @@ You can preview the `result` too.
 1. Create License Key
 
 ```bash
-If you don't have a license key, please contact me.
+If you don't have a License Key, please contact me.
 ```
 
 2. Import License Key 
@@ -119,7 +119,7 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 ## 💻 Built with
 
 
-- [Visual Studio 2022 ](https://tailwindcss.com/](https://visualstudio.microsoft.com/)): for Debug/Release
+- [Visual Studio 2022 ](https://tailwindcss.com/](https://visualstudio.microsoft.com/)): for Debug/Release ( In the case of purchasing the source code version. )
 
 
 ## 🙇 Special Thanks
