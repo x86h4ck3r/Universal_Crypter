@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-<i>Loved the tool? Please consider <a href="https://paypal.me/rahuldkjain/10">donating</a>  💸 to help it improve!</i>
+<i>Interested the tool? Please contact <a href="https://t.me/unibypass">Telegram</a>   to give it!</i>
 </p>
 
 <p align="center">
