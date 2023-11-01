@@ -124,9 +124,9 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 
 ## 💻 Built with
 
-- [Gatsby](https://www.gatsbyjs.com/)
-- [Tailwind CSS](https://tailwindcss.com/): for styling
-- [GSAP](https://greensock.com/gsap/): for small SVG Animations
+
+- [Visual Studio 2022 ]([https://tailwindcss.com/](https://visualstudio.microsoft.com/)): for Debug/Release
+
 
 ## 🙇 Special Thanks
 
