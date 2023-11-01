@@ -140,6 +140,8 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 
 ## ✔️Disclaimer
 This project was made for educational purposes only. I am not responsible if you choose to use this illegally/maliciously.
+![a](https://github.com/UniversalOpen/Universal_Crypter/assets/147580391/ba86b86b-69ca-49af-aac1-b55e2312411b)
+
 
 <hr>
 <p align="center">
