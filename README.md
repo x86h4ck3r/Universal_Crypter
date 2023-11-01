@@ -125,7 +125,7 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 ## 💻 Built with
 
 
-- [Visual Studio 2022 ]([https://tailwindcss.com/](https://visualstudio.microsoft.com/)): for Debug/Release
+- [Visual Studio 2022 ](https://tailwindcss.com/](https://visualstudio.microsoft.com/)): for Debug/Release
 
 
 ## 🙇 Special Thanks
