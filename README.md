@@ -122,14 +122,7 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 - [Visual Studio 2022 ](https://tailwindcss.com/](https://visualstudio.microsoft.com/)): for Debug/Release ( In the case of purchasing the source code version. )
 
 
-## 🙇 Special Thanks
 
-- [Anurag Hazra](https://github.com/anuraghazra) for amazing [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- [Anton Komarev](https://github.com/antonkomarev) for super cool [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
-- [Gautam Krishna R](https://github.com/gautamkrishnar) for the awesome [blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-- [Jonah Lawrence](https://github.com/DenverCoder1) for the incredible [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-- [Julien Monty](https://github.com/konpa) for super useful [devicon](https://github.com/konpa/devicon)
-- [Eliot Sanford](https://github.com/techieeliot) for adding hashnode as a blog input
 
 ## 🧲 Encryption Support
 
@@ -140,6 +133,7 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 
 ## ✔️Disclaimer
 This project was made for educational purposes only. I am not responsible if you choose to use this illegally/maliciously.
+
 ![a](https://github.com/UniversalOpen/Universal_Crypter/assets/147580391/ba86b86b-69ca-49af-aac1-b55e2312411b)
 
 
