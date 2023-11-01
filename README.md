@@ -90,31 +90,25 @@ You can preview the `result` too.
 
 ## 🛠️ Installation Steps
 
-1. Clone the repository
+1. Create License Key
 
 ```bash
-git clone https://github.com/rahuldkjain/github-profile-readme-generator.git
+If you don't have a license key, please contact me.
 ```
 
-2. Change the working directory
+2. Import License Key 
 
 ```bash
-cd github-profile-readme-generator
+Main or Settings
 ```
 
-3. Install dependencies
+3. Done! 
 
 ```bash
-npm install
+Import your payload, and the system will automatically bypass and exploit.
 ```
 
-4. Run the app
-
-```bash
-npm start
-```
-
-🌟 You are all set!
+🌟 You are all done!
 
 ## 🍰 Contributing
 
