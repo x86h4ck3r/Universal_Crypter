@@ -22,7 +22,8 @@
 </a>
 </p>
 
-<p align="center"><img src="https://i.ibb.co/gd5kjR5/aa.png" alt="[github-profile-readme-generator gif](https://i.ibb.co/gd5kjR5/aa.png)" /></p>
+<p align="center"><img src="https://github.com/UniversalOpen/Universal_Crypter/assets/147580391/a97bb8dd-7ae6-4905-95c2-b1712ce751df" alt="[github-profile-readme-generator gif](https://github.com/UniversalOpen/Universal_Crypter/assets/147580391/a97bb8dd-7ae6-4905-95c2-b1712ce751df)" /></p>
+
 
 <p align="center">
     <a href="https://universalstore.xyz/" target="blank">Website</a>
