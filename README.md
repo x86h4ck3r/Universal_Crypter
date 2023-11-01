@@ -131,12 +131,12 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 - [Julien Monty](https://github.com/konpa) for super useful [devicon](https://github.com/konpa/devicon)
 - [Eliot Sanford](https://github.com/techieeliot) for adding hashnode as a blog input
 
-## 🙇 Sponsors
+## 🙇 Encryption Support
 
-- [Scott C Wilson](https://github.com/scottcwilson) donated the first-ever grant to this tool. A big thanks to him.
-- [Max Schmitt](https://github.com/mxschmitt) loved the tool and showed support with his donation. Thanks a lot.
-- [Aadit Kamat](https://github.com/aaditkamat) find the tool useful and showed support with his donation. A big thanks to him.
-- [Jean-Michel Fayard](https://github.com/jmfayard) used the generator to create his GitHub Profile README and he loved it. Thanks to him for showing support to the tool with the donation.
+- [AES-256](https://gkaccess.com/support/information-technology-wiki/aes-256-encryption/) 
+- [XOR](https://www.101computing.net/xor-encryption-algorithm/) 
+- [RSA](https://www.techtarget.com/searchsecurity/definition/RSA#:~:text=RSA%20is%20a%20type%20of,is%20used%20to%20decrypt%20it.) 
+- [Triple DES (3DES)](https://en.wikipedia.org/wiki/Triple_DES) 
 
 ## 🙏 Support
 
@@ -156,5 +156,5 @@ Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDU
 
 <hr>
 <p align="center">
-Developed with ❤️ in India 🇮🇳 
+Developed with Unibypass in Russia 
 </p>
