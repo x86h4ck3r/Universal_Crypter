@@ -25,11 +25,11 @@
 <p align="center"><img src="https://i.ibb.co/gd5kjR5/aa.png" alt="[github-profile-readme-generator gif](https://i.ibb.co/gd5kjR5/aa.png)" /></p>
 
 <p align="center">
-    <a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="blank">Website</a>
+    <a href="https://universalstore.xyz/" target="blank">Website</a>
     ·
     <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">View Demo</a>
     ·
-    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Telegram</a>
+    <a href="https://t.me/unibypass">Telegram</a>
 </p>
 
 <p align="center">
