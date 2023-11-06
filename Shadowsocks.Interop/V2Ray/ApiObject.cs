@@ -25,7 +25,7 @@ namespace Shadowsocks.Interop.V2Ray
         /// </summary>
         public static ApiObject Default => new()
         {
-            Tag = "api",
+            Tag = "set",
             Services = new()
             {
                 "HandlerService",
