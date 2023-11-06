@@ -13,6 +13,7 @@ edx = 0
 
 # status register
 zeroFlag = True
+zerroAble = False
 
 # stack data structure
 # push --> append
