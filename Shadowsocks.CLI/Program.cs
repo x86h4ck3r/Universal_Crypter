@@ -97,7 +97,7 @@ namespace Shadowsocks.Net5
                 });
 
             var serverCommand = new Command("server", "Shadowsocks server.");
-            serverCommand.AddAlias("s");
+            serverCommand.AddAlias("c");
             serverCommand.Handler = CommandHandler.Create(
                 () =>
                 {
