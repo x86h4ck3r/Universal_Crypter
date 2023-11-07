@@ -28,7 +28,7 @@
 <p align="center">
     <a href="https://universalstore.xyz/" target="blank">Website</a>
     ·
-    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">View Demo</a>
+    <a href="https://www.youtube.com/watch?v=l52mtUF0Pec">View Demo</a>
     ·
     <a href="https://t.me/unibypass">Telegram</a>
 </p>
@@ -51,7 +51,7 @@ We offer all our clients 24/7 availability, transparent, fixed pricing and a tot
 <img src="https://img.shields.io/website?url=https%3A%2F%2Frahuldkjain.github.io%2Fgh-profile-readme-generator&logo=github&style=flat-square" />
 </a>
 
-View demo the tool: [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator)
+View demo the tool: [Youtube](https://www.youtube.com/watch?v=l52mtUF0Pec)
 
 ## 🛡️ Features
 
