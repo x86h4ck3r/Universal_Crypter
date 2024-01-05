@@ -22,7 +22,10 @@
 </a>
 </p>
 
-<p align="center"><img src="https://github.com/UniversalOpen/Universal_Crypter/assets/147580391/a97bb8dd-7ae6-4905-95c2-b1712ce751df" alt="[github-profile-readme-generator gif](https://github.com/UniversalOpen/Universal_Crypter/assets/147580391/a97bb8dd-7ae6-4905-95c2-b1712ce751df)" /></p>
+
+
+
+<p align="center"><img src="https://github.com/UniRevendBypass/Universal_Crypter/assets/89723323/e82f1cf0-08a6-49da-80e7-4ef5e6112770" alt="https://github.com/UniRevendBypass/Universal_Crypter/assets/89723323/e82f1cf0-08a6-49da-80e7-4ef5e6112770" /></p>
 
 
 <p align="center">
