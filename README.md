@@ -29,11 +29,11 @@
 
 
 <p align="center">
-    <a href="https://universalstore.xyz/" target="blank">Website</a>
+    <a href="https://universals.xyz/" target="blank">Website</a>
     ·
-    <a href="https://www.youtube.com/watch?v=l52mtUF0Pec">View Demo</a>
+    <a href="https://t.me/unirevend">View Demo</a>
     ·
-    <a href="https://t.me/unibypass">Telegram</a>
+    <a href="https://t.me/unirevend">Telegram</a>
 </p>
 
 <p align="center">
