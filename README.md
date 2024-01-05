@@ -134,5 +134,5 @@ This project was made for educational purposes only. I am not responsible if you
 
 <hr>
 <p align="center">
-Developed with Unibypass® © 2024
+Developed with Unibypass © 2024
 </p>
