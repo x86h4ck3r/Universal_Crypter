@@ -129,10 +129,10 @@ Import your payload, and the system will automatically bypass and exploit.
 ## ✔️Disclaimer
 This project was made for educational purposes only. I am not responsible if you choose to use this illegally/maliciously.
 
-![a](https://github.com/UniversalOpen/Universal_Crypter/assets/147580391/ba86b86b-69ca-49af-aac1-b55e2312411b)
+![aa25e4d35a7b8108f1667d3e7bc29d772ef33752](https://github.com/UniRevendBypass/Universal_Crypter/assets/89723323/aeb7d0ac-c30c-4bbc-8de7-214e1520cb17)
 
 
 <hr>
 <p align="center">
-Developed with Unibypass in Russia 
+Developed with Unibypass® © 2024
 </p>
