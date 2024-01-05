@@ -12,7 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE86}") = "5.Root", "0.Root", "{46259
 		ref\DirectoryPackages\Directory.Packages.props = ref\DirectoryPackages\Directory.Packages.props
 		NuGet.Config = NuGet.Config
 		README.en.md = README.en.md
-		README.md = README.md
+		README.md = README.md 
 	EndProjectSection
 EndProject
 Project("{21250E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.AppHost", "1.AppHost", "{5541B406-4A9A-4AC8-AA77-CE14E133DB80}"
