@@ -106,7 +106,8 @@ Import your payload, and the system will automatically bypass and exploit.
 
 ## ✔️ Sreenshot
 
-![snapedit_1698803489641](https://github.com/UniversalOpen/Universal_Crypter/assets/147580391/4d7ff3f8-9249-4c4e-9a9e-b723753aff0c)
+![acb](https://github.com/UniRevendBypass/Universal_Crypter/assets/89723323/44081260-5da2-42a2-85cf-7a17ff1db29c)
+
 
 
 
