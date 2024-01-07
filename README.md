@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://t.me/unibypass">
+  <a href="https://t.me/unipoland">
     <img alt="GitHub Profile Readme Generator" src="https://i.ibb.co/ZVN4gw0/4577fe99-fa74-4729-a57b-5884fe4c01df.jpg" width="60" />
   </a>
 </p>
@@ -29,11 +29,10 @@
 
 
 <p align="center">
-    <a href="https://universals.xyz/" target="blank">Website</a>
+    
+    <a href="https://t.me/unipoland">View Demo</a>
     ·
-    <a href="https://t.me/unirevend">View Demo</a>
-    ·
-    <a href="https://t.me/unirevend">Telegram</a>
+    <a href="https://t.me/unipoland">Telegram</a>
 </p>
 
 <p align="center">
