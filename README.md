@@ -29,7 +29,6 @@
 
 
 <p align="center">
-    
     <a href="https://t.me/unipoland">View Demo</a>
     ·
     <a href="https://t.me/unipoland">Telegram</a>
