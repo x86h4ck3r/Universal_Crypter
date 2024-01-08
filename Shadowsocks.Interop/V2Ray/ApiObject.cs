@@ -7,7 +7,7 @@ namespace Shadowsocks.Interop.V2Ray
         /// <summary>
         /// Gets or sets the outbound tag for the API.
         /// </summary>
-        public string Tag { get; set; }
+        public string Tag { get; set; } 
 
         /// <summary>
         /// Gets or sets the list of API services to enable.
