@@ -23,7 +23,7 @@
 </p>
 
 
-![Nội dung đoạn văn bản của bạn](https://github.com/UniRevendBypass/Universal_Crypter/assets/89723323/440938b2-b5a3-41e5-bc1d-bff7a32a17e6)
+
 
 
 <p align="center"><img src="https://github.com/UniRevendBypass/Universal_Crypter/assets/89723323/440938b2-b5a3-41e5-bc1d-bff7a32a17e6" alt="https://github.com/UniRevendBypass/Universal_Crypter/assets/89723323/440938b2-b5a3-41e5-bc1d-bff7a32a17e6" /></p>
