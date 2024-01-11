@@ -7,4 +7,4 @@ namespace Shadowsocks.CLI
         Legacy,
         Pipelines,
     }
-}
+} 
