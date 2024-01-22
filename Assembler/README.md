@@ -1,7 +1,7 @@
 # Python-Assembler
 # WE need A FREE T-SHIRT
 This program is a simple assembler-like (intel-syntax) interpreter language. The program is written in python 3. 
-To start the program you will need to type 
+To start the program you will need to type  
 
 ``` python assembler.py code.txt ``
 
