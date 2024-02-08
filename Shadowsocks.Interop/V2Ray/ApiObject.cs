@@ -4,7 +4,7 @@ namespace Shadowsocks.Interop.V2Ray
 {
     public class ApiObject
     {
-        /// <summary>
+        /// <summary> 
         /// Gets or sets the outbound tag for the API.
         /// </summary>
         public string Tag { get; set; } 
